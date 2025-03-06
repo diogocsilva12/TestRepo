@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/diogokeeper12/Documents/GitHub/TestRepo",
+      "program": "/Users/diogokeeper12/Documents/GitHub/TestRepo/build/Debug/outDebug"
+    }
+  ]
+}
